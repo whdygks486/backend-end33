@@ -1,0 +1,5 @@
+# Project exclude paths
+/mandarat-main/mandarat-main/.gradle/
+/mandarat-main/mandarat-main/build/
+/mandarat-main/mandarat-main/build/classes/java/main/
+/mandarat-main/mandarat-main/build/classes/java/test/
